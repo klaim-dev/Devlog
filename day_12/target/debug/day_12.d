@@ -1,0 +1,1 @@
+/home/klaim/projects/Devlog/day_12/target/debug/day_12: /home/klaim/projects/Devlog/day_12/src/catalog.rs /home/klaim/projects/Devlog/day_12/src/lib.rs /home/klaim/projects/Devlog/day_12/src/main.rs /home/klaim/projects/Devlog/day_12/src/model.rs /home/klaim/projects/Devlog/day_12/src/stats.rs
